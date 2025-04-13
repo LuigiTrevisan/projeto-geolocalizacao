@@ -1,0 +1,7 @@
+branca==0.8.1
+folium==0.19.5
+geopandas==1.0.1
+ipykernel==6.29.5
+matplotlib==3.10.1
+pandas==2.2.3
+requests==2.32.3
