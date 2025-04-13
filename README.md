@@ -30,13 +30,15 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-### 2. Rodar o script em Python para coletar os dados
+### 2. Executar o script em Python para coletar os dados
 ```bash
 python coleta_dados.py
 ```
 
-### 3. Rodar o script do Jupyter Notebook
-
+### 3. Executar o script do Jupyter Notebook
+```bash
+jupyter notebook analise.ipynb
+```
 
 ## Proposta de Análise Final
 
