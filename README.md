@@ -40,14 +40,11 @@ python coleta_dados.py
 
 ## Proposta de Análise Final
 
-#### Análisar porque as regiões apresentadas possuem tanta diferença nos preços médios e propostas para balancear os valores. 
-#### Considerando os seguintes pontos:
-- Estabelecimentos próximos 
-- Parques próximos
-- Avenidas próximas
-- Qual tipo de moradia: Casa ou Apartamento
-- Número de quartos da residência 
-- Número de vagas de garagem 
-- Quantidade de residências disponíveis
+#### Esta análise terá como objetivo principal investigar os motivos que levam às discrepâncias significativas nos preços médios de imóveis entre diferentes regiões e propor estratégias para promover uma maior uniformidade nos valores praticados. Para isso, serão considerados diversos fatores que influenciam diretamente o valor dos imóveis, aplicando técnicas de análise espacial para identificar padrões relevantes.
 
+#### Objetivos Específicos:
+- Identificar os fatores que impactam os preços dos imóveis em cada região, avaliando como a presença de infraestrutura urbana, como estabelecimentos comerciais, parques, avenidas e outros serviços, contribui para a valorização ou desvalorização das residências.
 
+- Analisar o perfil dos imóveis disponíveis, diferenciando entre casas e apartamentos, número de quartos, número de vagas de garagem e a quantidade total de unidades em oferta em cada localidade.
+
+- Detectar padrões de agrupamento espacial com base nos preços e na localização dos imóveis utilizando o algoritmo de clustering DBSCAN (Density-Based Spatial Clustering of Applications with Noise).
